@@ -1,5 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
-
 # Centralized Platform Teams vs. Individual Code Silos in Infrastructure as Code: Security and Team Dynamics Analysis
 
 ---
